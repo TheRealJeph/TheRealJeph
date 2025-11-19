@@ -1,16 +1,16 @@
 ## Hi there 👋
-## Iam currently University of Rwanda Student 
-## In Year 3 Business Information Technology
-## 🚀 Aspiring Data Scientist & Sofrtware Engeneer<br>
-## 🎓 ALX Data science Program | 💡 Purpose-Driven Learner<br>
-## 🌍 Passionate about using tech to drive impact in Rwanda and beyond
+# Iam current Student in University of Rwanda. 
+# In Year 3 Business Information Technology
+# 🚀 Aspiring Data Scientist & Sofrtware Engeneer<br>
+# 🎓 ALX Data science Program | 💡 Purpose-Driven Learner<br>
+# 🌍 Passionate about using tech to drive impact in Rwanda and beyond
 
-## 🌟 Vision & Mission
+# 🌟 Vision & Mission
 "To become a highly skilled data scientist and professional back-end developer, using the power of data, scalable systems, and technology to solve real-world problems, support innovation, and contribute to the development of Rwanda and beyond."
 
-## I'm not just learning to get a job—I’m learning to make a difference.
+# I'm not just learning to get a job—I’m learning to make a difference.
 
-## 🔨 Projects I’d Love to Work On
+# 🔨 Projects I’d Love to Work On
 Here are the kinds of projects that excite and inspire me:
 
 📊 Public Health Dashboards to visualize and track disease trends<br>
