@@ -1,4 +1,7 @@
 ## Hi there 👋
+🚀 Aspiring Data Scientist & Sofrtware Engeneer
+🎓 ALX Data science Program | 💡 Purpose-Driven Learner
+🌍 Passionate about using tech to drive impact in Rwanda and beyond
 
 <!--
 **TheRealJeph/TheRealJeph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
