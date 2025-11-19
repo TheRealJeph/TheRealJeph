@@ -1,6 +1,6 @@
 ## Hi there 👋
- Iam current Student in University of Rwanda. 
- In Year 3 Business Information Technology
+ Iam current Student in University of Rwanda. <br>
+ In Year 3 Business Information Technology <br>
 🚀 Aspiring Data Scientist & Sofrtware Engeneer<br>
 🎓 ALX Data science Program | 💡 Purpose-Driven Learner<br>
 🌍 Passionate about using tech to drive impact in Rwanda and beyond
