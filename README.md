@@ -1,6 +1,6 @@
 ## Hi there 👋
-##🚀 Aspiring Data Scientist & Sofrtware Engeneer
-##🎓 ALX Data science Program | 💡 Purpose-Driven Learner
+##🚀 Aspiring Data Scientist & Sofrtware Engeneer<br>
+##🎓 ALX Data science Program | 💡 Purpose-Driven Learner<br>
 ##🌍 Passionate about using tech to drive impact in Rwanda and beyond
 
 <!--
